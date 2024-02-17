@@ -90,7 +90,7 @@ body {
 .card__ingredients,
 .card__price {
     margin-left: auto;
-    margin-right: 53px;
+    margin-right: 15px;
 }
 
 .card__ingredients {

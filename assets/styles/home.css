@@ -64,19 +64,19 @@ body {
 }
 
 .card:nth-child(1) {
-    background-image: url("../images/menu/original.png");
+    background-image: url("../images/menu/original.webp");
 }
 
 .card:nth-child(2) {
-    background-image: url("../images/menu/cheese-classic.png");
+    background-image: url("../images/menu/cheese-classic.webp");
 }
 
 .card:nth-child(3) {
-    background-image: url("../images/menu/bbq-bacon-burguer.png");
+    background-image: url("../images/menu/bbq-bacon-burguer.webp");
 }
 
 .card:nth-child(4) {
-    background-image: url("../images/menu/bacon-beef.png");
+    background-image: url("../images/menu/bacon-beef.webp");
 }
 
 .card__title {
